@@ -1,0 +1,306 @@
+
+@media(max-width: 1400px) {
+   .container {
+       width: 100%;
+   } 
+   @media(max-width: 1200px) {
+    .md-img {
+        height: auto;
+        width: 100%;
+    }
+    .left-side {
+        display: inherit;
+        padding-left: 20%;
+    }
+    .md-img {
+        width: auto;
+        height: auto;
+    }
+    .journey-img {
+        text-align: center;
+    }
+    .journey-place {
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 600px) {
+    nav {
+        display: unset;
+    }
+    .navbar2 {
+        padding: 1rem;
+    }
+    .n-img {
+        padding-left: 34%;
+        padding-top: 4%;
+    }
+    .contact {
+        display: unset;
+    }
+    .nav2 {
+        width: 100%;
+    }
+    .journey-place {
+        text-align: center;
+    }  
+}
+@media(max-width: 992px) {
+    .order-list {
+        display: unset;
+    }
+    .logo {
+       width: unset;
+        padding-left: 40%;
+    }
+    ul {
+        display: unset;
+    }
+    .data {
+        padding-left: 40%;
+    }
+    .search {
+        width: unset;
+        padding-left: 13%;
+    }
+    .p-mp {
+        font-size: 3rem;
+    }
+    .welcome-pro {
+        width: 100%;
+    }
+    .welcome {
+        width: 100%;
+        padding-left: 5%;
+    }
+    .halmatd {
+        height: auto;       
+        margin-top: 8rem;
+        width: auto;
+    }
+    .halmat {
+        height: auto;
+        width: auto;
+    }
+    .welcome-pro {
+      display: inherit;
+    }
+    .welcome-section {
+        height: 55rem;
+    }
+    .choose-main {
+        display: inherit;
+    }
+    .choose-section {
+        height: auto; 
+    }
+    .main-services {
+        flex-direction: column;
+       padding-left: 20%;
+    }
+    .journey-place {
+       display: inherit;
+    }
+    .services-section {
+        height: auto;
+        background-color: #fff;
+    }
+    .md-img {
+        width: 75%;
+        height: auto;
+    }
+    .made-love-section {
+        height: auto;
+    }
+    .customer {
+        display: inherit;
+        align-items: center;
+    }
+    .customer-ph {
+        justify-content: center;
+        display: flex;
+        flex-direction: inherit;
+    }
+    .left-side {
+        display: inherit;
+        padding-left: 20%;
+    }
+    .customer-section {
+        height: auto;
+    }
+    .contact-form {
+        height: 25rem;
+    }
+    .welcome2 {
+       height: auto;
+    }
+    .cdn-color {
+        height: auto;
+    }
+    .left-side {
+        height: 19rem;
+    }
+    .logoo {
+        height: auto;
+        width: 100%;
+    }
+    .main-area {
+       display: grid;
+       grid-template-columns: auto auto;
+       margin: 0rem 9rem;
+    }
+    .footer-section {
+        height: auto;
+    }
+    .main-area h2 {
+        width: 11rem;
+    }
+    .about-content {
+        width: 78%;
+    }
+    .journey-place {
+        text-align: center;
+    } 
+}
+@media(max-width: 786px) {
+    .f-btn {
+        margin: 1rem;  
+    }
+    .main-services {
+       padding-left: 5%;
+    }
+    .services-section {
+        height: auto;
+    }
+    .journey-place {
+       padding-left: inherit;
+    }
+    .customer-section {
+        height: auto;
+    }
+    .ct-dn {
+        font-size: 2rem;
+    }
+    .ct-ph {
+        font-size: 1.4rem; 
+    }
+    .left-side {
+        padding-left: 3%;
+    }
+   .our-img {
+       height: auto;
+      width: 100%;
+   }
+   .journey-img {
+    text-align: center;
+    }
+    .journey-place {
+    text-align: center;
+    } 
+}
+@media(max-width: 576px) {
+    .banner-section {
+        height: 55rem;
+    }
+    .welcome-section {
+        height: 64rem;
+    }
+    .choose-section {
+        height: auto;
+    }
+    .main-services {
+        padding-left: 1%;
+     }
+     .services-section {
+        height: auto;       
+    }
+    .customer-section {
+        height: auto;
+    }
+    [type="email"] {
+        margin: inherit;
+        margin-top: 1rem;
+    }
+    .sb-btn {
+        margin: 1rem 0rem;
+    }
+    .cdn-color {
+        height: 21rem;
+        }
+    .left-side {
+        height: 20rem;
+    }
+    .main-area {
+        margin: 0rem 1rem;
+    }
+    .main-area {
+        display: grid;
+        grid-template-columns: inherit;
+        margin: auto;
+    }
+    .main-area h2 {
+        width: inherit;
+    }
+    .journey-img {
+        text-align: center;
+    }
+    .journey-place {
+        text-align: center;
+    }
+}
+@media(max-width: 412px){
+    .welcome-section {
+        height: 65rem;
+    }
+    [type="mesage"] {
+        width: 100%;
+    }
+    .cdn-color {
+        height: auto;
+        }
+    .main-services {
+        padding-left: 0%;
+     }
+     .journey-place {
+        padding-left: 1%;
+    }
+    .md-img {
+        width: 84%;
+    }
+    .made-love-section {
+        height: auto;
+    }
+    .customer-section {
+        height: auto;
+    }
+    .left-side {
+        height: 27rem;
+    }
+    .contact-form {
+        height: 31rem;
+    }
+    .journey-img {
+        text-align: center;
+    }
+    .journey-place {
+        text-align: center;
+    }
+    .halmatd {
+        height: auto;
+        width: 100%;
+    }
+    .halmat {
+        height: auto;
+        width: 100%;
+    }
+    .p-mp {
+        font-size: 2rem;
+    }
+    .p-hp {
+        font-size: 1rem;
+        
+    }
+
+
+}
+   
+
